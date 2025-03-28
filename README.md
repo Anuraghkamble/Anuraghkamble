@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="coverpage.jpeg" alt="Cover Photo" width="100%">
+  <img src="cove rpage.jpeg" alt="Cover Photo" width="100%">
 </p>
 
 <h2 align="center" style="font-family: 'Times New Roman', serif; font-weight: bold;">
